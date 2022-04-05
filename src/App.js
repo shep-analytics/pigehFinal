@@ -3,7 +3,7 @@ import React from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import eventBus from './Components/EventBus';
-import contractInfo from './contractInfo'
+//import contractInfo from './contractInfo'
 import Mint from './Components/Mint.js';
 import NFT from './Components/NFT';
 import Intro from './Components/Intro';
