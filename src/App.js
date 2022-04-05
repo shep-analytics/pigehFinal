@@ -168,8 +168,6 @@ class Container extends React.Component {
 function App() {
 
   return (
-    <Container>
-    </Container>
     <div className="relative w-full h-full bg-color-primary">
         <ToastContainer />
         <Mint />
