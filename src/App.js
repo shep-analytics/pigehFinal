@@ -163,12 +163,9 @@ class Container extends React.Component {
     }
   }
 
-}
-
-function App() {
-
-  return (
-    <div className="relative w-full h-full bg-color-primary">
+  render() {
+    return (
+      <div className="relative w-full h-full bg-color-primary">
         <ToastContainer />
         <Mint />
         <NFT />
@@ -178,6 +175,15 @@ function App() {
         <Roadmap />
         <Faq />
       </div>
+    )
+  }
+}
+
+function App() {
+
+  return (
+    <Container>
+    </Container>
   );
 }
 
