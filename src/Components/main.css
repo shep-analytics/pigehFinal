@@ -1,0 +1,675 @@
+@media only screen and (max-width: 800px) {
+    .inTro{
+        font-size: 22px;
+        margin-top: -80px;
+        margin-bottom: -40px;
+    }
+
+    .inTroDes{
+        font-size: 16px;
+        text-align: center;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .interesting{
+        margin-top: 120px;
+    }
+    .dic1{
+        display: none;
+    }
+    .dic2{
+        display: none;
+    }
+    .dic3{
+        display: none;
+    }
+    .dic4{
+        display: none;
+    }
+    .dic5{
+        display: none;
+    }
+
+    .mainText1 {
+        font-size: 14px;
+    }
+    .mainText2 {
+        font-size: 14px;
+        padding-left: 50px;
+    }
+    .mainText3 {
+        font-size: 14px;
+        padding-left: 120px;
+    }
+    .upIcontext1{
+        font-size: 12px;
+    }
+    .upIcontext2{
+        font-size: 12px;
+    }
+    .upIcontext3{
+        font-size: 12px;
+    }
+    .upIcontext4{
+        font-size: 12px;
+    }
+    .upIcontext5{
+        font-size: 12px;
+    }
+    .upIcontext11{
+        font-size: 12px;
+    }
+    .upIcontext22{
+        font-size: 12px;
+    }
+    .upIcontext23{
+        font-size: 12px;
+    }
+    .upIcontext24{
+        font-size: 12px;
+    }
+    .upIcontext25{
+        font-size: 12px;
+    }
+    .icon{
+        display: none;
+    }
+    .main {
+        display: flex;
+        flex-direction: column;
+    }
+    .mainText1 {
+        display: flex;
+        flex-direction: column;
+        margin-top: -500px;
+    }
+    .question{
+        font-size: 20px;
+        text-align: start;
+    }
+    .mainFaq{
+        margin-left: -100px;
+        width: full;
+    }
+    .mainFaqs{
+        margin-left: -100px;
+        width: 100%;
+    }
+
+}
+
+
+@media only screen and (max-width: 1420px) {
+    .imgMian{
+        height: 780px;
+    }
+}
+
+
+@media only screen and (max-width: 450px) {
+    .inTro{
+        font-size: 22px;
+        margin-top: -80px;
+        margin-bottom: -40px;
+    }
+
+    .inTroDes{
+        font-size: 14px;
+        text-align: center;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .interesting{
+        margin-top: 350px;
+    }
+    
+    .dic1{
+        display: none;
+    }
+    .dic2{
+        display: none;
+    }
+    .dic3{
+        display: none;
+    }
+    .dic4{
+        display: none;
+    }
+    .dic5{
+        display: none;
+    }
+
+    .main {
+        display: none;
+    }
+
+    .question{
+        font-size: 22px;
+        margin-left: -50%;
+    }
+
+    .faq{
+        font-size: 15px;
+    }
+
+    .fa-question-circle{
+        display: none;
+    }
+
+    .mainFaq{
+        font-size: 200px;
+        /* margin-left: -100px; */
+    }
+    .mainFaqs{
+        margin-left: -100px;
+        /* width: 100%; */
+    }
+
+    .Imgs{
+        height: 1150px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 1670px) {
+    .mainText1 {
+        font-size: 20px;
+    }
+    .mainText2 {
+        font-size: 20px;
+        padding-left: 50px;
+    }
+    .mainText3 {
+        font-size: 20px;
+        padding-left: 120px;
+    }
+}
+
+@media only screen and (max-width: 1580px) {
+    .mainText1 {
+        font-size: 20px;
+    }
+    .mainText2 {
+        font-size: 20px;
+        padding-left: 20px;
+    }
+    .mainText3 {
+        font-size: 20px;
+        padding-left: 120px;
+    }
+}
+
+@media only screen and (max-width: 1530px) {
+    .mainText1 {
+        font-size: 20px;
+    }
+    .mainText2 {
+        font-size: 20px;
+        padding-left: 0px;
+    }
+    .mainText3 {
+        font-size: 20px;
+        padding-left: 120px;
+    }
+}
+
+
+@media only screen and (max-width: 1501px) {
+    .mainText1 {
+        font-size: 18px;
+        margin-left: 0px;
+    }
+    .mainText2 {
+        font-size: 18px;
+        margin-left: -45px;
+    }
+    .mainText3 {
+        font-size: 18px;
+        margin-left: -45px;
+    }
+}
+
+
+@media only screen and (max-width: 1430px) {
+    .mainText1 {
+        font-size: 18px;
+        margin-left: -20px;
+    }
+    .mainText2 {
+        font-size: 18px;
+        margin-left: -45px;
+    }
+    .mainText3 {
+        font-size: 18px;
+        margin-left: -45px;
+    }
+}
+
+@media only screen and (max-width: 1399px) {
+    .mainText1 {
+        font-size: 17px;
+        margin-left: -30px;
+    }
+    .mainText2 {
+        font-size: 17px;
+    }
+    .mainText3 {
+        font-size: 17px;
+    }
+}
+
+@media only screen and (max-width: 1340px) {
+    .mainText1 {
+        font-size: 17px;
+        margin-left: -50px;
+    }
+    .mainText2 {
+        font-size: 17px;
+    }
+    .mainText3 {
+        font-size: 17px;
+    }
+}
+
+@media only screen and (max-width: 1301px) {
+    .mainText1 {
+        font-size: 15px;
+        margin-left: -60px;
+    }
+    .mainText2 {
+        font-size: 15px;
+    }
+    .mainText3 {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 1230px) {
+    .mainText1 {
+        font-size: 15px;
+        /* margin-left: -70px; */
+        margin-right: -15px;
+    }
+    .mainText2 {
+        font-size: 15px;
+    }
+    .mainText3 {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .mainText1 {
+        font-size: 14px;
+        padding-left: 30px;
+    }
+    .mainText2 {
+        font-size: 14px;
+    }
+    .mainText3 {
+        font-size: 14px;
+    }
+    .upIcontext1{
+        margin-left: -80px;
+    }
+    .upIcontext2{
+        margin-left: -45px;
+    }
+}
+
+@media only screen and (max-width: 1450px) {
+    .dic1 {
+        text-align: start;
+        margin-left: -35px;
+        font-size: 18px;
+    }
+
+    .dic2 {
+        text-align: start;
+        margin-left: -10px;
+        font-size: 18px;
+    }
+
+    .dic3 {
+        text-align: start;
+        margin-top: -45px;
+        font-size: 18px;
+    }
+
+    .dic4 {
+        font-size: 18px;
+    }
+
+    .dic5 {
+        text-align: center;
+        margin-left: 0px;
+        font-size: 18px;
+    }
+
+}
+
+@media only screen and (max-width: 1400px) {
+
+    .dic1 {
+        text-align: start;
+        margin-left: -35px;
+        font-size: 16px;
+    }
+
+    .dic2 {
+        text-align: center;
+        margin-left: -40px;
+        font-size: 16px;
+    }
+
+    .dic3 {
+        text-align: start;
+        margin-top: -45px;
+        font-size: 16px;
+    }
+
+    .dic4 {
+        font-size: 16px;
+    }
+
+    .dic5 {
+        text-align: center;
+        margin-left: 0px;
+        font-size: 16px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1360px) {
+
+    .dic1 {
+        text-align: start;
+        margin-left: -35px;
+        font-size: 16px;
+    }
+
+    .dic2 {
+        text-align: center;
+        margin-left: -40px;
+        font-size: 16px;
+    }
+
+    .dic3 {
+        text-align: start;
+        margin-top: -45px;
+        font-size: 16px;
+    }
+
+    .dic4 {
+        font-size: 16px;
+    }
+
+    .dic5 {
+        text-align: center;
+        margin-left: 0px;
+        font-size: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 1360px) {
+
+    .dic1 {
+        text-align: start;
+        margin-left: -35px;
+        font-size: 16px;
+    }
+
+    .dic2 {
+        text-align: center;
+        margin-left: -60px;
+        font-size: 16px;
+        padding-top: 0px;
+    }
+
+    .dic3 {
+        text-align: start;
+        margin-top: -45px;
+        font-size: 16px;
+    }
+
+    .dic4 {
+        font-size: 16px;
+    }
+
+    .dic5 {
+        text-align: center;
+        margin-left: 0px;
+        font-size: 16px;
+        padding-top: -20px;
+        margin-top: -20px;
+    }
+}
+
+
+@media only screen and (max-width: 1310px) {
+
+    .dic1 {
+        text-align: start;
+        margin-left: -35px;
+        font-size: 16px;
+    }
+
+    .dic2 {
+        text-align: center;
+        margin-left: -60px;
+        font-size: 16px;
+        padding-top: 0px;
+    }
+
+    .dic3 {
+        text-align: start;
+        margin-top: -45px;
+        font-size: 16px;
+    }
+
+    .dic4 {
+        font-size: 16px;
+    }
+
+    .dic5 {
+        text-align: center;
+        margin-left: 0px;
+        font-size: 16px;
+        padding-top: -20px;
+        margin-top: -20px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1280px) {
+
+    .dic1 {
+        text-align: start;
+        margin-left: -50px;
+        font-size: 16px;
+        margin-top: -20px;
+    }
+
+    .dic2 {
+        text-align: center;
+        margin-left: -70px;
+        font-size: 16px;
+        padding-bottom: -50px;
+        margin-top: -20px;
+        margin-bottom: 200px;
+    }
+}
+
+@media only screen and (max-width: 1250px) {
+    .dic1 {
+        text-align: start;
+        margin-left: -40px;
+        font-size: 14px;
+        margin-top: -85px;
+        width: 75%;
+    }
+
+    .dic2 {
+        text-align: center;
+        margin-top: -85px;
+        margin-left: -35px;
+        font-size: 14px;
+        width: 75%;
+    }
+
+    .dic3 {
+        text-align: start;
+        margin-top: -45px;
+        font-size: 14px;
+    }
+
+    .dic4 {
+        font-size: 14px;
+    }
+
+    .dic5 {
+        text-align: center;
+        margin-left: 0px;
+        font-size: 14px;
+        margin-top: -40px;
+    }
+}
+
+
+@media only screen and (max-width: 1100px) {
+    .dic1 {
+        text-align: start;
+        margin-left: -69px;
+        font-size: 14px;
+        margin-top: -105px;
+        width: 85%;
+        margin-bottom: -93px;
+    }
+
+    .dic2 {
+        text-align: center;
+        margin-top: -85px;
+        margin-left: -40px;
+        font-size: 14px;
+        width: 75%;
+    }
+
+    .dic3 {
+        text-align: start;
+        margin-top: -45px;
+        font-size: 14px;
+        margin-left: -25px;
+    }
+
+    .dic4 {
+        font-size: 14px;
+        margin-left: -30px;
+    }
+
+    .dic5 {
+        text-align: center;
+        margin-left: -35px;
+        font-size: 14px;
+        margin-top: -40px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1100px) {
+    .dic1 {
+        text-align: start;
+        margin-left: -45px;
+        font-size: 14px;
+        margin-top: -75px;
+        width: 75%;
+        margin-bottom: -93px;
+    }
+
+}
+
+@media only screen and (max-width: 1000px) {
+    .dic1 {
+        text-align: start;
+        margin-left: -65px;
+        font-size: 14px;
+        margin-top: -105px;
+        width: 85%;
+        margin-bottom: -93px;
+    }
+
+    .dic2 {
+        text-align: center;
+        margin-top: -85px;
+        margin-left: -40px;
+        font-size: 14px;
+        width: 75%;
+    }
+
+    .dic3 {
+        text-align: start;
+        margin-top: -45px;
+        font-size: 14px;
+        margin-left: -25px;
+    }
+
+    .dic4 {
+        font-size: 14px;
+        margin-left: -30px;
+    }
+
+    .dic5 {
+        text-align: center;
+        margin-left: -35px;
+        font-size: 14px;
+        margin-top: -40px;
+    }
+
+}
+
+
+@media only screen and (max-width: 940px) {
+    .dic1 {
+        text-align: start;
+        margin-left: -65px;
+        font-size: 14px;
+        margin-top: -115px;
+        width: 87%;
+        margin-bottom: -125px;
+    }
+
+    .dic2 {
+        text-align: center;
+        margin-left: -75px;
+        font-size: 14px;
+        width: 90%;
+    }
+
+    .dic3 {
+        text-align: start;
+        margin-top: -45px;
+        font-size: 14px;
+        margin-left: -25px;
+    }
+
+    .dic4 {
+        font-size: 14px;
+        margin-left: -50px;
+    }
+
+    .dic5 {
+        text-align: center;
+        margin-left: -45px;
+        font-size: 14px;
+        margin-top: -40px;
+    }
+
+}
